@@ -1,0 +1,18 @@
+# Database
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.5  # PostgreSQL driver
+pymysql>=1.0.2          # MySQL driver (optional)
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Utilities
+python-dotenv>=0.20.0   # Environment variable management
+pyyaml>=6.0             # Configuration file parsing
+
+# Logging
+loguru>=0.6.0           # Enhanced logging capabilities
+
+# Testing
+pytest>=7.0.0
